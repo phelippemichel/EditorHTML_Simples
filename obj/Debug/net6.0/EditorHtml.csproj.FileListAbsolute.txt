@@ -1,0 +1,15 @@
+/home/phelippe/Documents/Estudo/C#/Projetos/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.AssemblyReference.cache
+/home/phelippe/Documents/Estudo/C#/Projetos/EditorHtml/obj/Debug/net6.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/phelippe/Documents/Estudo/C#/Projetos/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfoInputs.cache
+/home/phelippe/Documents/Estudo/C#/Projetos/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfo.cs
+/home/phelippe/Documents/Estudo/C#/Projetos/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/phelippe/Documents/Estudo/C#/Projetos/EditorHtml/bin/Debug/net6.0/EditorHtml
+/home/phelippe/Documents/Estudo/C#/Projetos/EditorHtml/bin/Debug/net6.0/EditorHtml.deps.json
+/home/phelippe/Documents/Estudo/C#/Projetos/EditorHtml/bin/Debug/net6.0/EditorHtml.runtimeconfig.json
+/home/phelippe/Documents/Estudo/C#/Projetos/EditorHtml/bin/Debug/net6.0/EditorHtml.dll
+/home/phelippe/Documents/Estudo/C#/Projetos/EditorHtml/bin/Debug/net6.0/ref/EditorHtml.dll
+/home/phelippe/Documents/Estudo/C#/Projetos/EditorHtml/bin/Debug/net6.0/EditorHtml.pdb
+/home/phelippe/Documents/Estudo/C#/Projetos/EditorHtml/obj/Debug/net6.0/EditorHtml.dll
+/home/phelippe/Documents/Estudo/C#/Projetos/EditorHtml/obj/Debug/net6.0/ref/EditorHtml.dll
+/home/phelippe/Documents/Estudo/C#/Projetos/EditorHtml/obj/Debug/net6.0/EditorHtml.pdb
+/home/phelippe/Documents/Estudo/C#/Projetos/EditorHtml/obj/Debug/net6.0/EditorHtml.genruntimeconfig.cache
